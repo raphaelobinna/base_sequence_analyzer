@@ -301,5 +301,5 @@ If you use this tool in your research, please cite:
 
 ```
 FASTA Base Composition Analyzer [Computer software].
-Retrieved from https://github.com/raphaelobinna/fasta-analyzer
+Retrieved from [https://github.com/raphaelobinna/fasta-analyzer](https://github.com/raphaelobinna/base_sequence_analyzer)
 ```
